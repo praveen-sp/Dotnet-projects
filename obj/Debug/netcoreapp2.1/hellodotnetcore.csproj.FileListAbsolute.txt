@@ -1,0 +1,14 @@
+c:\hellodotnetcore\bin\Debug\netcoreapp2.1\hellodotnetcore.deps.json
+c:\hellodotnetcore\bin\Debug\netcoreapp2.1\hellodotnetcore.runtimeconfig.json
+c:\hellodotnetcore\bin\Debug\netcoreapp2.1\hellodotnetcore.runtimeconfig.dev.json
+c:\hellodotnetcore\bin\Debug\netcoreapp2.1\hellodotnetcore.dll
+c:\hellodotnetcore\bin\Debug\netcoreapp2.1\hellodotnetcore.pdb
+c:\hellodotnetcore\obj\Debug\netcoreapp2.1\hellodotnetcore.csprojAssemblyReference.cache
+c:\hellodotnetcore\obj\Debug\netcoreapp2.1\hellodotnetcore.csproj.CoreCompileInputs.cache
+c:\hellodotnetcore\obj\Debug\netcoreapp2.1\hellodotnetcore.RazorAssemblyInfo.cache
+c:\hellodotnetcore\obj\Debug\netcoreapp2.1\hellodotnetcore.RazorAssemblyInfo.cs
+c:\hellodotnetcore\obj\Debug\netcoreapp2.1\hellodotnetcore.AssemblyInfoInputs.cache
+c:\hellodotnetcore\obj\Debug\netcoreapp2.1\hellodotnetcore.AssemblyInfo.cs
+c:\hellodotnetcore\obj\Debug\netcoreapp2.1\hellodotnetcore.RazorTargetAssemblyInfo.cache
+c:\hellodotnetcore\obj\Debug\netcoreapp2.1\hellodotnetcore.dll
+c:\hellodotnetcore\obj\Debug\netcoreapp2.1\hellodotnetcore.pdb
